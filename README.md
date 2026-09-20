@@ -78,7 +78,7 @@ My journey with SURE Trust gave me the opportunity to explore different areas of
   This project involved designing and simulating a Single-Stage Differential Operational Amplifier at the transistor level. It focused on core analog CMOS design concepts, including calculating precise transistor sizing (W/L ratios), establishing robust biasing circuits using current mirrors, and optimizing the architecture to meet specific gain and bandwidth requirements. The implementation provided hands-on experience with industry-standard EDA tools for schematic capture and SPICE simulation. Key performance metrics such as Differential Voltage Gain, Common-Mode Rejection Ratio (CMRR), Slew Rate, Power Dissipation, and Phase Margin were rigorously analyzed and validated against the target specifications.
 </p>
 <p>
-  <a href="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp/blob/main/Final%20Capstone%20Project/Doc/Single_Stage_Differential_OpAmp_report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
