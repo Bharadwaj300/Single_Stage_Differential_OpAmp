@@ -107,8 +107,6 @@ The Life Skills Training (LST) and Soft Skills Training (SST) sessions provided 
 
 During my training period, I actively participated in community-oriented initiatives focused on environmental sustainability and directly supporting local community members. These hands-on activities provided a practical avenue to apply the values of empathy, gratitude, and social responsibility discussed during the LST sessions.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
 ### **Activities Involved**
   
  <!-- Kalapatti Village, Coimbatore, Karnataka -->
