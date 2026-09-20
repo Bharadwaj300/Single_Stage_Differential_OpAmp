@@ -62,9 +62,7 @@
 
 ## Overall Learning 
 
-My journey with SURE Trust gave me the opportunity to explore different areas of VLSI, including MOS Fundamentals, Verilog, SystemVerilog & UVM, Analog & Mixed Signal, DFT, and Physical Design. These courses helped me build a strong foundation across VLSI design, verification, testability, and physical implementation.
-
-Through my practical AMS project on a Single-Stage Differential Op-Amp, I gained hands-on experience in transistor-level circuit design, MOSFET sizing, biasing, differential operation, current mirrors, gain, frequency response, and performance analysis using Cadence Virtuoso and Spectre. The project also taught me how to relate theoretical concepts with simulation results and understand how design choices influence circuit performance.
+My journey with SURE Trust gave me the opportunity to explore different areas of VLSI, including MOS Fundamentals, Verilog, SystemVerilog & UVM, Analog & Mixed Signal, DFT, and Physical Design. These courses helped me build a strong foundation across VLSI design, verification, testability, and physical implementation. Through my practical AMS project on a Single-Stage Differential Op-Amp, I gained hands-on experience in transistor-level circuit design, MOSFET sizing, biasing, differential operation, current mirrors, gain, frequency response, and performance analysis using Cadence Virtuoso and Spectre. The project also taught me how to relate theoretical concepts with simulation results and understand how design choices influence circuit performance.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -72,14 +70,12 @@ Through my practical AMS project on a Single-Stage Differential Op-Amp, I gained
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt; Single Stage Differential Op-Amp &gt;</p>
 
-
 </div>
 
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Single Stage Differential Op-Amp </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  ThiThis project involved designing and simulating a Single-Stage Differential Operational Amplifier at the transistor level. It focused on core analog CMOS design concepts, including calculating precise transistor sizing (W/L ratios), establishing robust biasing circuits using current mirrors, and optimizing the architecture to meet specific gain and bandwidth requirements. The implementation provided hands-on experience with industry-standard EDA tools for schematic capture and SPICE simulation. Key performance metrics such as Differential Voltage Gain, Common-Mode Rejection Ratio (CMRR), Slew Rate, Power Dissipation, and Phase Margin were rigorously analyzed and validated against the target specifications.
 </p>
 <p>
   <a href="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp" target="_blank"><strong>→ View Full Project Report</strong></a>
