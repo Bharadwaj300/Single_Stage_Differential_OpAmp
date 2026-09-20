@@ -125,8 +125,9 @@ During my training period, I actively participated in community-oriented initiat
 
 
 <div align="center">
-<img src="[https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY](https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY)" alt="Community Service Photos" width="30%">
+<img src="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp/blob/main/Community/Services_Bharadwaj%20G3-25%20VLSI.png" alt="Community Service Photo 1" width="30%">
 
+<img src="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp/blob/main/Community/Plantation_Bharadwaj%20G3-25%20VLSI.png" alt="Community Service Photo 2" width="30%">
 
 ## **Certificate**
 
