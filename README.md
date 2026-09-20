@@ -30,7 +30,7 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Integrated VLSI</p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Instructor Name:</strong> Prof. Radhakumari Challa </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 months </p>
@@ -41,7 +41,6 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Karnati Prudhvi Kumar</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> Senior Silicon Design Engineer - AMD</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -63,30 +62,27 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+My journey with SURE Trust gave me the opportunity to explore different areas of VLSI, including MOS Fundamentals, Verilog, SystemVerilog & UVM, Analog & Mixed Signal, DFT, and Physical Design. These courses helped me build a strong foundation across VLSI design, verification, testability, and physical implementation.
+
+Through my practical AMS project on a Single-Stage Differential Op-Amp, I gained hands-on experience in transistor-level circuit design, MOSFET sizing, biasing, differential operation, current mirrors, gain, frequency response, and performance analysis using Cadence Virtuoso and Spectre. The project also taught me how to relate theoretical concepts with simulation results and understand how design choices influence circuit performance.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!Single_Stage_Differential_OpAmp &gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; Single Stage Differential Op-Amp &gt;</p>
 
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Single Stage Differential Op-Amp </h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -97,40 +93,35 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Google](https://www.google.com/)
+- [YouTube](https://www.youtube.com)
+
 ---
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+The Life Skills Training (LST) and Soft Skills Training (SST) sessions provided a comprehensive foundation for transitioning from academia into a professional Analog/Mixed-Signal IC Design engineering environment. During the SST modules, I developed essential interpersonal skills, focusing on professional communication, work ethics, and emotional intelligence. I also gained actionable strategies for career growth, leadership, and workplace negotiation, alongside practical knowledge on integrating AI into daily workflows and understanding exactly what large companies expect from freshers. Complementing this, the LST sessions broadened my perspective through discussions on entrepreneurship, finance management, and the importance of community service. Furthermore, dedicated sessions on preventive medicine, yoga, and workplace harassment awareness underscored the importance of personal well-being and maintaining healthy professional boundaries, while mock interviews and resume building practically equipped me for my upcoming job search.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my training period, I actively participated in community-oriented initiatives focused on environmental sustainability and directly supporting local community members. These hands-on activities provided a practical avenue to apply the values of empathy, gratitude, and social responsibility discussed during the LST sessions.
 
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+ <!-- Kalapatti Village, Coimbatore, Karnataka -->
+- **Tree Plantation & Greening:** Planted multiple tree saplings in open outdoor spaces to support local afforestation. Additionally, I took responsibility for watering and maintaining potted plants in residential areas.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
+  <!-- Kalapatti Village, Coimbatore, Karnataka -->
+- **Helping Elder Citizens** – Distributed essential items to local community members, including elderly individuals, daily wage earners, and service workers 
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
+- Provided direct, modest support to hardworking individuals and the elderly, fostering a sense of community solidarity and connection.
+- Actively contributed to local environmental conservation by planting new saplings, promoting a greener and cleaner surrounding ecology.
+- Developed a stronger personal sense of civic duty, grounding my professional ambitions in a commitment to societal well-being.
 - Improved skills in communication, coordination, and social responsibility.
 
 ### **Photos**
@@ -138,15 +129,10 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
-</div>
+<img src="https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY" alt="Community Service Photos" width="30%">
 
----
 
 ## **Certificate**
 
