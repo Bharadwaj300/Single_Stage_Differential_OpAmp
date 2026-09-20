@@ -75,7 +75,7 @@ My journey with SURE Trust gave me the opportunity to explore different areas of
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Single Stage Differential Op-Amp </h3>
 <p>
-  ThiThis project involved designing and simulating a Single-Stage Differential Operational Amplifier at the transistor level. It focused on core analog CMOS design concepts, including calculating precise transistor sizing (W/L ratios), establishing robust biasing circuits using current mirrors, and optimizing the architecture to meet specific gain and bandwidth requirements. The implementation provided hands-on experience with industry-standard EDA tools for schematic capture and SPICE simulation. Key performance metrics such as Differential Voltage Gain, Common-Mode Rejection Ratio (CMRR), Slew Rate, Power Dissipation, and Phase Margin were rigorously analyzed and validated against the target specifications.
+  This project involved designing and simulating a Single-Stage Differential Operational Amplifier at the transistor level. It focused on core analog CMOS design concepts, including calculating precise transistor sizing (W/L ratios), establishing robust biasing circuits using current mirrors, and optimizing the architecture to meet specific gain and bandwidth requirements. The implementation provided hands-on experience with industry-standard EDA tools for schematic capture and SPICE simulation. Key performance metrics such as Differential Voltage Gain, Common-Mode Rejection Ratio (CMRR), Slew Rate, Power Dissipation, and Phase Margin were rigorously analyzed and validated against the target specifications.
 </p>
 <p>
   <a href="https://github.com/Bharadwaj300/Single_Stage_Differential_OpAmp" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -106,10 +106,10 @@ During my training period, I actively participated in community-oriented initiat
 ### **Activities Involved**
   
  <!-- Kalapatti Village, Coimbatore, Karnataka -->
-- **Tree Plantation & Greening:** Planted multiple tree saplings in open outdoor spaces to support local afforestation. Additionally, I took responsibility for watering and maintaining potted plants in residential areas.
+- **Tree Plantation & Greening:** Planted multiple tree saplings in open outdoor spaces to support local afforestation. Additionally, I took responsibility for watering and maintaining potted plants in residential areas. @Kalapatti Village, Coimbatore, Karnataka.
 
   <!-- Kalapatti Village, Coimbatore, Karnataka -->
-- **Helping Elder Citizens** – Distributed essential items to local community members, including elderly individuals, daily wage earners, and service workers 
+- **Helping Elder Citizens** – Distributed essential items to local community members, including elderly individuals, daily wage earners, and service workers. @Kalapatti Village, Coimbatore, Karnataka.
 
 ### **Impact / Contribution**
 
