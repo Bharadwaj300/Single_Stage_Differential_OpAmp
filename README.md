@@ -125,7 +125,7 @@ During my training period, I actively participated in community-oriented initiat
 
 
 <div align="center">
-<img src="https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY" alt="Community Service Photos" width="30%">
+<img src="[https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY](https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY)" alt="Community Service Photos" width="30%">
 
 
 ## **Certificate**
@@ -135,7 +135,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src="[https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7507042100186787841?utm_source=share&utm_medium=member_desktop&rcm=ACoAADooTzwBn8VZ6-QDf02cxORp5LMNYIx1mkY)" width="80%">
+<p align="center">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
 </p>
 
 ---
